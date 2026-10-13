@@ -21,7 +21,7 @@ The site does not verify servers. If you add a bad one — your data goes there.
 
 - Email registration + verification
 - Login by email
-- One-time code for the Minecraft launcher
+- One-time code for the launcher / game modification
 - Host selector
 
 ## Stack
