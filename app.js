@@ -1,7 +1,7 @@
 'use strict';
 
 const BUILTIN_HOSTS = [
-  { url: 'http://127.0.0.1:25572',            label: 'local' },
+  { url: 'https://bedbrick.fxtun.ru',            label: 'prod' },
   { url: 'http://localhost:25572',            label: 'local' },
 ];
 
