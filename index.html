@@ -7,13 +7,7 @@
       content="default-src 'self';
                script-src 'self';
                style-src 'self' 'unsafe-inline';
-               connect-src 'self'
-                  https://bedbrick.fxtun.ru
-                  http://127.0.0.1:25572
-                  http://localhost:25572
-                  ws://127.0.0.1:8081
-                  ws://localhost:8081
-                  https://auth.bedbrick.example.com;
+               connect-src *;
                img-src 'self' data:;
                base-uri 'none';
                form-action 'none';
